@@ -6,5 +6,5 @@
 프론트엔드를 공부 중이며, 항상 더 나은 코드를 작성하기 위해 노력하고 있습니다.
 
 ### 연락처
-- **Email**: [cntjdd715@gmail.com](mailto:cntjdd715@gmail.com)
+- **Email**: [cntjddn715@gmail.com](mailto:cntjddn715@gmail.com)
 - **Instagram**: [ch.xo5](https://www.instagram.com/ch.xo5/)
